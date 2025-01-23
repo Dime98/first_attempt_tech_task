@@ -5,3 +5,4 @@ local
 saved_model
 
 *.zip
+**/*.ipynb_checkpoints/
